@@ -1,6 +1,5 @@
 // One addon, two versions. The free version is public. The donor version
 // has its own id, name, logo and background, and adds a 720p stream.
-// Nothing in this file knows about AddonPass; server.js decides who gets which.
 
 export const DONOR_ID = "com.addonpass.example.donation.donor";
 export const DONOR_NAME = "AddonPass Donation Example · Donor";

@@ -1,6 +1,3 @@
-// The addon itself: ordinary Stremio JSON. Nothing in this file knows about
-// AddonPass; server.js decides who gets to reach it.
-
 export const ADDON_ID = "com.addonpass.example.subscription";
 export const ADDON_NAME = "AddonPass Subscription Example";
 
